@@ -1,0 +1,15 @@
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\bin\Debug\net9.0\Rezervation_sistem.exe
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\bin\Debug\net9.0\Rezervation_sistem.deps.json
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\bin\Debug\net9.0\Rezervation_sistem.runtimeconfig.json
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\bin\Debug\net9.0\Rezervation_sistem.dll
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\bin\Debug\net9.0\Rezervation_sistem.pdb
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.AssemblyInfoInputs.cache
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.AssemblyInfo.cs
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.csproj.CoreCompileInputs.cache
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.sourcelink.json
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.dll
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\refint\Rezervation_sistem.dll
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.pdb
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\Rezervation_sistem.genruntimeconfig.cache
+C:\Users\MLG Y520\Desktop\Rezervation_sistem\obj\Debug\net9.0\ref\Rezervation_sistem.dll
